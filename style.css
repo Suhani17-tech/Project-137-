@@ -1,0 +1,39 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+.heading1{
+    width: 100%;
+    margin: 0px;
+    font-size: 15px;
+}
+
+
+#start,#object_found,#status
+{
+    font-size: 20px;
+}
+
+
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border-radius: 10px;
+    border:2px solid black;
+    box-shadow: 5px 5px 5px lightgreen ;
+    margin-top: 350px;
+}
+#object_name{
+box-shadow: 5px 5px 5px darkmagenta;
+width: 40%;
+
+}
+
+h2{
+    color: white;
+}
